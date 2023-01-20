@@ -31,12 +31,12 @@ OS: Windows 10
 
 ubuserv
 
-OS: Ubuntu Server
+    OS: Ubuntu Server
 
-Services: 
+    Services: 
 
 debian10
 
-OS: Debian 10
+    OS: Debian 10
 
-Services:
+    Services:
