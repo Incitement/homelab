@@ -8,6 +8,8 @@
     RAM: 16GB DDR4
 
     OS: Ubuntu 22.04
+    
+    Services: Virtualbox, Vagrant, Samba
 
 ## Laptop
 
@@ -33,7 +35,7 @@ ubuserv
 
     OS: Ubuntu Server
 
-    Services: 
+    Services: ELK Stack (ElasticSearch/Logstash/Kibana) 
 
 debian10
 
