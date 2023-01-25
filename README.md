@@ -5,7 +5,7 @@
 
     CPU: i7-4770 @ 3.9 Ghz
 
-    RAM: 16GB DDR4
+    RAM: 24GB DDR3
 
     OS: Ubuntu 22.04
     
